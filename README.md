@@ -1,2 +1,2 @@
 # github-repo-react
-Programming exercise to fetch github repos of a user
+Simple react app to get the repos created by a user on github
